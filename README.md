@@ -1,7 +1,8 @@
-mongowngoal
+mongocutter
 ===========
 
- mongowngoal generates test data for mongodb.
+ mongocutter generates test data,
+ and check performance for mongodb.
  
 Setting Yaml
 ============
